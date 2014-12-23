@@ -1,7 +1,7 @@
 # Boeffla-Config controller interface
 #
 # *****************************
-# i9300 Cyanogenmod 11 version
+# i9300 Cyanogenmod 12 version
 #
 # V0.1
 # *****************************
@@ -11,7 +11,7 @@
 # ********************************
 
 # kernel specification (hardware; type; target; url)
-KERNEL_SPECS="i9300;cm;cm11.0;http://boeffla.df-kunde.de/sgs3/boeffla-kernel-cm/"
+KERNEL_SPECS="i9300;cm;cm12.0;http://boeffla.df-kunde.de/sgs3/boeffla-kernel-cm/"
 
 # kernel features 
 # (1=enable-busybox,2=enable-frandom,3=wipe-cache,4=disable-zram-control)
